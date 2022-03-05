@@ -26,7 +26,7 @@ A aplicação contém as seguintes funcionalidades:
 
 ```bash
 # Clone para este repositório
-$ git clone <https://github.com/Pedro-AugusCoelho/SeachProfileGitHub.git>
+$ git clone <https://github.com/Pedro-AugusCoelho/SearchProfileGitHub.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd SearchProfileGitHub
