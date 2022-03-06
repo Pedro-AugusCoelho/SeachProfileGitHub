@@ -9,7 +9,6 @@ export const GithubContext = createContext({
 });
 
 const GithubProvider = ({ children }:any) => {
-  const [errApi , setErrorApi] = useState(false);
   const [githubState, setGithubState] = useState({
     hasUser: false,
     loading: 0,
