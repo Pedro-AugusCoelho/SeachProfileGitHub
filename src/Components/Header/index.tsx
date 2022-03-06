@@ -11,7 +11,7 @@ const Header = () => {
 
     const submitGetUser = () => {
         if (usernameForSearch){
-            return getUser(usernameForSearch);
+                return getUser(usernameForSearch); 
         }
     };
     
