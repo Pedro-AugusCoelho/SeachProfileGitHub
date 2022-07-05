@@ -38,7 +38,7 @@ export const ContentRepos_Starred = () => {
                         to={'/starred'} 
                         className={`h-full flex items-center border-b-2 transition-colors hover:border-gray-400
                         ${active === 'Starred' ? 'border-green-500 text-green-500 hover:border-green-500' : 'border-transparent'}`}>
-                        Starred
+                        Favoritos
                     </Link>
                 
                 </div>
