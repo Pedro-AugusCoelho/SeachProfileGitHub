@@ -71,7 +71,7 @@ export function ProfileProvider({ children }: ProfileGithubProviderProps): JSX.E
         setStarred(data);
       });
 
-      setLoading(true);
+      setLoading(false);
       } catch (error) {
         alert('Usuário não existente');
         setLoading(false);
