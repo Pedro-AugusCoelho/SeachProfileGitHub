@@ -1,5 +1,5 @@
 <div align='center'>
-  <img height='500px' alt='Readme' title='Readme' src='./asset/Demonstration.gif'>
+  <img height='400px' alt='Readme' title='Readme' src='./asset/Demonstration.gif'>
 </div>
 
 ## Sobre o projeto 💬
@@ -15,7 +15,7 @@ A aplicação contém as seguintes funcionalidades:
 ## Responsividade
 
 <div align='center'>
-  <img height='400px' alt='Readme' title='Readme' src='./asset/Responsive.gif'>
+  <img height='450px' alt='Readme' title='Readme' src='./asset/Responsive.gif'>
 </div>
 
 ## Pré-requisitos
