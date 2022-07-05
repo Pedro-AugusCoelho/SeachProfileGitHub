@@ -16,7 +16,7 @@ export const Main = () => {
                 
                 ?(<><Profile /><ContentRepos_Starred/></>)
                 
-                :<NotPage title="Nenhum Usuário encontrado..." />
+                :<NotPage title="Procure um usuário..." />
             
             }
         </>
